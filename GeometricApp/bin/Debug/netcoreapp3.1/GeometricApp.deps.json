@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "GeometricApp/1.0.0": {
+        "dependencies": {
+          "GeometricFigureHandler": "1.0.0"
+        },
+        "runtime": {
+          "GeometricApp.dll": {}
+        }
+      },
+      "GeometricFigureHandler/1.0.0": {
+        "runtime": {
+          "GeometricFigureHandler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GeometricApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GeometricFigureHandler/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
