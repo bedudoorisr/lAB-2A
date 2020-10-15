@@ -1,0 +1,8 @@
+E:\Ayappan\GeometricApp\GeometricFigureHandler\bin\Debug\netcoreapp3.1\GeometricFigureHandler.deps.json
+E:\Ayappan\GeometricApp\GeometricFigureHandler\bin\Debug\netcoreapp3.1\GeometricFigureHandler.dll
+E:\Ayappan\GeometricApp\GeometricFigureHandler\bin\Debug\netcoreapp3.1\GeometricFigureHandler.pdb
+E:\Ayappan\GeometricApp\GeometricFigureHandler\obj\Debug\netcoreapp3.1\GeometricFigureHandler.csprojAssemblyReference.cache
+E:\Ayappan\GeometricApp\GeometricFigureHandler\obj\Debug\netcoreapp3.1\GeometricFigureHandler.AssemblyInfoInputs.cache
+E:\Ayappan\GeometricApp\GeometricFigureHandler\obj\Debug\netcoreapp3.1\GeometricFigureHandler.AssemblyInfo.cs
+E:\Ayappan\GeometricApp\GeometricFigureHandler\obj\Debug\netcoreapp3.1\GeometricFigureHandler.dll
+E:\Ayappan\GeometricApp\GeometricFigureHandler\obj\Debug\netcoreapp3.1\GeometricFigureHandler.pdb
